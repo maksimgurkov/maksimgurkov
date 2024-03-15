@@ -9,3 +9,12 @@
  </a>
 </div>
 
+### About me
+- 🧠 I'm currently learning Swift, specifically UIKit, SwiftUI
+- 📖 I’m currently learning English
+- 👨🏻‍💻 I like to write code
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
