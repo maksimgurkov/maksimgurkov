@@ -16,5 +16,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksimgurkov&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maksimgurkov&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maksimgurkov&theme=apprentice&utcOffset=8)
